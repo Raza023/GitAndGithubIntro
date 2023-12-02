@@ -33,6 +33,7 @@ Click the following link to view this website:<br/>
 04) cls (clear screen)
 
 -------------------git commands-----------------
+
 0) git --version       (to see git installed or not)
 1) git init            (initiaize a git repository)
 2) git status          (to see changes)
@@ -63,7 +64,7 @@ Branching
 1) git branch               (to see available branches)
 2) git branch feature1      (creates branch named as feature1)
 3) git checkout feature1    (switches the branch to feature1)
-4) git merge feature1       (to merge branche named feature1 with the one you are currently on.)
+4) git merge feature1       (to merge branch named feature1 with the one you are currently on.)
 4) git branch -d feature1   (deletes feature1 branch after merging)
 5) git branch -D feature1   (deletes feature1 branch without merging)
 
