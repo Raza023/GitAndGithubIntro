@@ -5,6 +5,7 @@ Click the following link to view this website:<br/>
 
 # Notes
 ----------------Some useful cmd commands----------------
+
 ---------for linux-------
 01) pwd (print working directory)
 02) ls (list contents of current directory)
