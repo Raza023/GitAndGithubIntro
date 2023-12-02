@@ -52,7 +52,7 @@ reverting to old commit
 
 local to remote repository(github)
 
-12) git remote add origin https://github.com/Syed2958/gitpractice.git
+12) git remote add origin https://github.com/accountName/repoName.git
 13) git push -u origin master   (for all commits)
 14) make changes now (locally)
 15) git add .
