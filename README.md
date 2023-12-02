@@ -46,11 +46,8 @@ Click the following link to view this website:<br/>
 reverting to old commit
 
 8) git reset --hard  41192d2d0ec3e094a46b81c32c035859f7ee7da9 (bash number to which we have reverted just now)
-
 9) git reset --soft HEAD@{1}
-
 10)git add . 
-
 11)git commit -m "reverted to old commit with bash 41192d2d0ec3e094a46b81c32c035859f7ee7da9"
 
 local to remote repository(github)
