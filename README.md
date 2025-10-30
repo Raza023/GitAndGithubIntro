@@ -109,7 +109,7 @@ Click the following link to view this website:<br/>
 ## ✅ Stash & Patch
 
 - `git stash` → Temporarily save changes
-- `git stash push --staged -m "Message to staash only staged changes"` → Stash only staged changes
+- `git stash push --staged -m "Message to stash only staged changes"` → Stash only staged changes
 - `git stash pop` → Apply and remove the last stash
 - `git stash list` → List saved stashes
 - `git stash apply stash@{n}` → Apply a specific stash
