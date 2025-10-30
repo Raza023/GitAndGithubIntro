@@ -46,6 +46,17 @@ Click the following link to view this website:<br/>
 - `git merge <branch>` → Merge another branch into the current branch
 - `git rebase <branch>` → Reapply commits on top of another base branch
 
+## ✅ Stash & Patch
+
+- `git stash` → Temporarily save changes
+- `git stash push --staged -m "Message to stash only staged changes"` → Stash only staged changes
+- `git stash pop` → Apply and remove the last stash
+- `git stash list` → List saved stashes
+- `git stash apply stash@{n}` → Apply a specific stash
+- `git stash drop stash@{n}` → Delete a specific stash
+- `git format-patch <commit>` → Create patch files from commits
+- `git apply <patch>` → Apply patch file
+
 ## 📜 Logs & History
 
 - `git log` → View full commit history
@@ -105,17 +116,6 @@ Click the following link to view this website:<br/>
 - `git push origin <tag>` → Push a single tag to remote
 - `git push origin --tags` → Push all tags to remote
 - `git fetch --tags` → Fetch tags from remote
-
-## ✅ Stash & Patch
-
-- `git stash` → Temporarily save changes
-- `git stash push --staged -m "Message to stash only staged changes"` → Stash only staged changes
-- `git stash pop` → Apply and remove the last stash
-- `git stash list` → List saved stashes
-- `git stash apply stash@{n}` → Apply a specific stash
-- `git stash drop stash@{n}` → Delete a specific stash
-- `git format-patch <commit>` → Create patch files from commits
-- `git apply <patch>` → Apply patch file
 
 ## 📂 Submodules & Other
 
