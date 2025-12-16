@@ -1,7 +1,9 @@
 # GitAndGithubIntro
 
 Click the following link to view this website:<br/>
-<a href="https://raza023.github.io/GitAndGithubIntro/">https://raza023.github.io/GitAndGithubIntro/</a>
+<a href="https://raza023.github.io/GitAndGithubIntro/" target="_blank" rel="noopener noreferrer">
+  https://raza023.github.io/GitAndGithubIntro/
+</a>
 
 # 🐙 Git Cheatsheet – All Commands with Descriptions
 
